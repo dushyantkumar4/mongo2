@@ -1,0 +1,32 @@
+body{
+    margin-left: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:#e3e8e9;
+}
+h2{
+    color: 
+    #05445e;
+}
+button{
+    border: none;
+    border-radius: 0.5rem;
+    background-color:  #002c59;
+    color:#fff;
+}
+#delBtn{
+    margin-bottom: 2px;
+}
+.chat{
+    background-color:#bbe7fe;
+    display: inline-block;
+    border-radius: 1rem;
+    padding:20px;
+    /* margin-left: 20px; */
+}
+.msg{
+    background-color: #1e90ff;
+    color:#fff;
+    padding:1px 10px;
+    border-radius: 1rem;
+}
